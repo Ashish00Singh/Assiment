@@ -1,0 +1,27 @@
+Q1. What is Single Page Application (SPA)
+Ans:- A Single Page Application is a web aplication that interacts with the user by dynamically.  
+------------------------------------------------------------------------------------
+Q2. What is DNS and IP Address
+Ans:-  Domain Name System turns the name of website into IP Addresses while connecting the  page into the browser.
+
+IP Address: Is a unique number address that connect to a computer network that user use to connect to the other user or communication into the network.
+------------------------------------------------------------------------------------
+Q3. What Is DOM in JS
+Ans:- The Document Object Model is a cross-platform and language-independent interface that treats an HTML or XML documen.
+------------------------------------------------------------------------
+Q4. What is  React and why we use React instead of JS
+Ans:- React Provide more eficient while making the website it give us components redering by leveraing virtual dom.
+------------------------------------------------------------------------------
+Q5. What is JSX and why do we use it instead of js?
+Ans:-  It give us to write Html code without using create element() or appentChild()method.
+--------------------------------------or---------------------------------------
+JSX performs optimization while compiling the source code to JS
+Q6. What is package.json?
+ans:- The package. json file contains descriptive and functional metadata about a project, such as a name, version, and dependencies.
+------------------------------------------------------------------------------------
+Q7. What is the Difference between react and react native? Which one is library or framework?
+Ans:- react is known as reactJs. which is which is a JavaScript library to build single-page web applications. Besides, React Native is a React JS-based framework to design mobile apps.
+react native is a framework.
+-------------------------------------------------------------------------------------------
+Q8. What is difference between class and functional component?
+Ans:-  functional component is just a plain JavaScript pure function that accepts props as an argument and returns a React element(JSX). A class component requires you to extend from React. Component and create a render function that returns a React element.
