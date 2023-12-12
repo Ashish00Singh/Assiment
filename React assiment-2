@@ -1,0 +1,19 @@
+Q1.  What are the different data types present in javascript?
+ans: the different data types present in javascript :-
+     String.
+     Number.
+     Bigint.
+     Boolean.
+     Undefined.
+     Null.
+     Symbol.
+     Object.
+
+Q2.  What are the JavaScript Engines?
+ans: A JavaScript engine is a software component that executes JavaScript code.
+Q3.  Explain ECMA in JS.
+ans: ECMA is a  father JavaScript. ECMA is a standardized js implemetation across al web browser.
+Q4.  Why We use JavaScript?
+ans: JavaScript is a scripting language used to develop web page, by adding functionality to web page.
+Q5.  What is DOM in js?
+ans: DOM is a Document Object Model is a cross-platform and language-free interface use in html or jsx.
